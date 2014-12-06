@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\joe\documents\visual studio 2012\projects\towerdefense\towerdefense\main.cpp(74): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\joe\documents\visual studio 2012\projects\towerdefense\towerdefense\main.cpp(78): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\joe\documents\visual studio 2012\projects\towerdefense\towerdefense\main.cpp(82): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\joe\documents\visual studio 2012\projects\towerdefense\towerdefense\main.cpp(86): warning C4305: 'argument' : truncation from 'double' to 'float'
+  TowerDefense.vcxproj -> C:\Users\Joe\Documents\Visual Studio 2012\Projects\TowerDefense\Debug\TowerDefense.exe
